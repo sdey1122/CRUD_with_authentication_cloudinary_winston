@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# CRUD_with_authentication_cloudinary_winston
-Scope: Build a Product CRUD with authentication, Cloudinary for image, logger (winston)
+Product CRUD with authentication, Cloudinary for image, logger (winston)
 =======
 # Product CRUD API
 
@@ -195,7 +193,4 @@ error.log
 
 ---
 
-## Author
-
-Riku Dey
->>>>>>> master
+## Author SD
